@@ -25,8 +25,23 @@ k = k**5;
 // console.log(Object.values(b));
 // console.log(Object.entries(b));
 
+// Open cmd on Explorer
 // npm create vite@latest --template app1
 // cd app1
 // npm install
 // npm run dev
 // WindowsPowerShell--> RunAsAdministrator -> set-executionpolicy remotesigned
+
+
+// Right click on folder from explore 
+// open --> git bash here 
+// git init (first time)
+// git add .
+// git commit -m "your message"
+// git branch -m main (first time)
+// git remote add origin your_github_repo_url  (first time)
+// git push -u origin main
+
+// if required
+// git config -g --user.mail=""
+// git config -g --user.password=""
